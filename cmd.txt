@@ -1,0 +1,1 @@
+python anchor.py --boxDir="TRUE_TEST/data" --maxCluster=20
